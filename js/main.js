@@ -36,4 +36,4 @@ var trainLines = {
  
 };
 
-//if //selection includes the Interchange, so [lineN,4],[lineL,2], [lineN,4], then change lines - return value of stop and new line chosen - will always be 1 or 0 if they don't change.
+//if //selection includes the Interchange, so [lineN,4],[lineL,2], [lineN,4] //syntax?!//, then change lines - return value of stop and new line chosen - will always be 1 or 0 if they don't change.
